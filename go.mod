@@ -1,5 +1,5 @@
 module github.com/aveyuan/vjwt
 
-go 1.25
+go 1.23.6
 
-require github.com/kataras/jwt v0.1.17
+require github.com/kataras/jwt v0.1.15
